@@ -1,6 +1,6 @@
 {
   "name": "@chxx/trans-client-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:chxx/trans-client-server.git"
+    "url": "git+https://github.com/chxx/trans-client-server.git"
   },
   "author": "herr91@live.com",
   "license": "ISC",
